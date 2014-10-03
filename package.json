@@ -1,7 +1,7 @@
 {
-  "name": "foss4g-map",
+  "name": "sf-map",
   "version": "0.0.0",
-  "description": "A map showing things at FOSS4G 2014",
+  "description": "A map showing things in San Francisco",
   "main": "assets/js/main.js",
   "scripts": {
     "build": "browserify assets/js/main.js > assets/js/bundle.js",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JasonSanford/foss4g-map.git"
+    "url": "git://github.com/fawcett/sf-map.git"
   },
   "keywords": [
-    "FOSS4G",
+    "San Francisco",
     "map"
   ],
-  "author": "Jason Sanford",
+  "author": "David Fawcett",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JasonSanford/foss4g-map/issues"
+    "url": "https://github.com/fawcett/sf-map/issues"
   },
-  "homepage": "https://github.com/JasonSanford/foss4g-map",
+  "homepage": "https://github.com/fawcett/sf-map",
   "dependencies": {
     "xhr": "~1.13.0"
   }

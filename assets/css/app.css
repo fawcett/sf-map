@@ -14,7 +14,7 @@ html, body {
   left: -15px;
   width: 53px;
   height: 52px;
-  background-image: url('../img/a_bird_on_it.png');
+  #background-image: url('../img/a_bird_on_it.png');
   background-repeat: no-repeat;
 }
 

@@ -1,6 +1,6 @@
 var xhr = require('xhr');
 
-var map = new L.mapbox.Map('map-container', 'grafa.jdib780o', {
+var map = new L.mapbox.Map('map-container', {
         // remove the 'i'
         infoControl: false,
         // create a new attribution control
@@ -9,9 +9,13 @@ var map = new L.mapbox.Map('map-container', 'grafa.jdib780o', {
 
 L.control.locate().addTo(map);
 
-// Credit Foursquare for their wonderful data
+var stamenLayer = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
+  attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.'
+}).addTo(map);
+
+
 map.attributionControl
-    .addAttribution('Credits: <a href="https://github.com/JasonSanford/foss4g-map">Jason Sanford</a>');
+    .addAttribution('Credits: <a href="https://github.com/fawcett/sf-map">David Fawcett</a>');
 
 var geojson_layer_options = {
   pointToLayer: L.mapbox.marker.style,

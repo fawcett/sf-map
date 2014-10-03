@@ -12,7 +12,7 @@ L.control.locate().addTo(map);
 
 // Credit Foursquare for their wonderful data
 map.attributionControl
-    .addAttribution('Credits: <a href="https://github.com/JasonSanford/foss4g-map">Jason Sanford</a>');
+    .addAttribution('Credits: <a href="https://github.com/fawcett/sf-map">David Fawcett</a>');
 
 var geojson_layer_options = {
   pointToLayer: L.mapbox.marker.style,
