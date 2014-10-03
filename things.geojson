@@ -685,6 +685,24 @@
           45.51535405360755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscone Center",
+        "description": "Dreamforce",
+        "address": "747 Howard Street, San Francisco, CA 94103",
+        "marker-symbol": "star",
+        "marker-size": "large",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40137457847597,
+          37.783901211929845
+        ]
+      }
     }
   ]
 }
