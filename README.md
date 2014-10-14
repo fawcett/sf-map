@@ -1,4 +1,4 @@
-## foss4g-map
+## sf-map
 
 A map of things in San Francisco. Visible at http://fawcett.github.io/sf-map/
 
