@@ -218,6 +218,346 @@
           37.79327871265836
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seven Hills",
+        "address": "1550 Hyde St, San Francisco, CA",
+        "web": "http://www.sevenhillssf.com/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41810083389282,
+          37.79537280206753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NOPA",
+        "address": "560 Divisadero at Hayes, San Francisco, CA",
+        "web": "http://nopasf.com/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43757367134094,
+          37.7749041367486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lers Ros Thai",
+        "address": "730 Larkin St, San Francisco, CA",
+        "web": "http://www.lersros.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41764754056932,
+          37.78456471346421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Four Barrel",
+        "address": "375 Valencia St, San Francisco, CA",
+        "web": "http://www.fourbarrelcoffee.com/",
+        "marker-symbol": "cafe",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42195785045622,
+          37.767025496936185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greens",
+        "address": "2 Marina Blvd, Building A, San Francisco, CA",
+        "web": "http://www.greensrestaurant.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43217706680296,
+          37.80654592755897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flour + Water",
+        "address": "2401 Harrison St, San Francisco, CA",
+        "web": "http://www.flourandwater.com/",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41233944892883,
+          37.75890003549384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Commonwealth",
+        "address": "2224 Mission St, San Francisco, CA",
+        "web": "http://www.commonwealthsf.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41910934448242,
+          37.76092724357598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Izakaya Sozai",
+        "address": "1500 Irving St, San Francisco, CA",
+        "web": "http://www.izakayasozai.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47292518615723,
+          37.763565075513156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "State Bird Provisions",
+        "address": "1524 Fillmore St, San Francisco, CA",
+        "web": "http://statebirdsf.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43262767791747,
+          37.78377402245696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mikkeller Bar",
+        "address": "34 Mason St, San Francisco, CA",
+        "web": "http://www.mikkellerbar.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40904569625854,
+          37.78360443615261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cellarmaker Brewery",
+        "address": "1150 Howard St, San Francisco, CA",
+        "web": "http://www.cellarmakerbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41071939468385,
+          37.77715986825405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City Beer Store",
+        "address": "1160 Follsom St #101, San Francisco, CA",
+        "web": "http://www.cellarmakerbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40936756134033,
+          37.77586240703758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Planet Labs",
+        "address": "490 2nd St #101, San Francisco, CA",
+        "web": "http://www.planet.com/",
+        "marker-symbol": "rocket",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39395558834075,
+          37.783171989315285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bar Tartine",
+        "address": "561 Valencia St, San Francisco, CA",
+        "web": "http://www.bartartine.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4216091632843,
+          37.76409093429919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tartine Bakery",
+        "address": "600 Guerrero St, San Francisco, CA",
+        "web": "http://www.tartinebakery.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42403388023376,
+          37.761402229904654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Slanted Door",
+        "address": "1 Ferry Building #3, San Francisco, CA",
+        "web": "http://www.slanteddoor.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39386439323424,
+          37.796330806988124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Abbott's Cellar",
+        "address": "742 Valencia St, San Francisco, CA",
+        "web": "http://abbotscellar.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42149114608765,
+          37.76085938813719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Monk's Kettle",
+        "address": "3141 16th St, San Francisco, CA",
+        "web": "http://www.monkskettle.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42299318313597,
+          37.7646761598427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thirsty Bear Brewing",
+        "address": "661 Howard St, San Francisco, CA",
+        "web": "http://thirstybear.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39966869354247,
+          37.78544442676132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thirsty Bear Brewing",
+        "address": "550 Geary St, San Francisco, CA",
+        "web": "http://hoteladagiosf.com",
+        "marker-symbol": "lodging",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41250038146973,
+          37.78695369361412
+        ]
+      }
     }
   ]
 }
