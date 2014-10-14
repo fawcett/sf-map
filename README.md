@@ -1,8 +1,8 @@
 ## foss4g-map
 
-A map of things at FOSS4G 2014. Visible at http://jasonsanford.github.io/foss4g-map/
+A map of things in San Francisco. Visible at http://fawcett.github.io/sf-map/
 
-If you're staying in a different hotel or just want to change the map a bit, fork this repo and you'll be able to see your own version at `http://<your_github_username>.github.io/foss4g-map/`.
+Thanks to Jason Sanford for most of the code.
 
 ### Building
 
