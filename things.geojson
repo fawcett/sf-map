@@ -558,6 +558,39 @@
           37.78695369361412
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe Meuse Wine Bar",
+        "address": "1400 Pacific Ave, San Francisco, CA",
+        "web": "http://cafemeuse.com/",
+        "marker-symbol": "bar",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4184548854828,
+          37.79554660034281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TBD",
+        "address": "1077 Mission St, San Francisco, CA",
+        "web": "http://tbdrestaurant.com",
+        "marker-symbol": "restaurant",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41019904613495,
+          37.779608446255146
+        ]
+      }
   ]
 }
